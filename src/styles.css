@@ -1,0 +1,36 @@
+.img-flyer img{
+    width: 100%;
+    height: 550px;
+}
+.clase-para-espacios{
+    margin-top: 20px;
+}
+
+#titulonav{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 3%;
+    margin-top: 5px;
+}
+
+.head{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    border-style: solid;
+    border-width: medium;
+    border-color: royalblue;
+    margin-bottom: 10px;
+    background-color: deepskyblue;
+   
+}
+
+.btn-secondary{
+    background-color: rgb(133, 133, 133);
+
+}
+
+.btn-outline-secondary{
+    color: rgb(255, 255, 255);
+    background-color: rgb(133, 133, 133);
+    
+}
