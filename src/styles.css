@@ -25,12 +25,34 @@
 }
 
 .btn-secondary{
-    background-color: rgb(133, 133, 133);
-
+  
+  background: #4CAF50;   
+  position: absolute;
+  font-style: initial;
+  color: white;
+  right: 14px;
+  width: 65px;
+  height: 32px;
+  line-height: 0px;       
+ 
 }
+
+.btn-secondary:hover{
+    background-color: #4CAF50; 
+    color: black;
+    box-shadow: 0 01px 01px 0 rgba(0, 0, 0, 0.24), 0 2px 0px 0 rgba(0,0,0,0.19);
+  }
+
+
 
 .btn-outline-secondary{
     color: rgb(255, 255, 255);
     background-color: rgb(133, 133, 133);
     
+}
+
+.btn-outline-secondary:hover{
+
+    color: black;
+
 }
